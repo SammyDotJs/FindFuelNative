@@ -1,0 +1,283 @@
+{
+    "address_components": [
+        {
+            "long_name": "Along",
+            "short_name": "Along",
+            "types": [Array
+            ]
+        },
+        {
+            "long_name": "Airport Road",
+            "short_name": "Airport Rd",
+            "types": [Array
+            ]
+        },
+        {
+            "long_name": "Extension",
+            "short_name": "Extension",
+            "types": [Array
+            ]
+        },
+        {
+            "long_name": "Lugbe",
+            "short_name": "Lugbe",
+            "types": [Array
+            ]
+        },
+        {
+            "long_name": "Kabusa",
+            "short_name": "Kabusa",
+            "types": [Array
+            ]
+        },
+        {
+            "long_name": "Abuja Municipal Area Council",
+            "short_name": "AMAC",
+            "types": [Array
+            ]
+        },
+        {
+            "long_name": "Federal Capital Territory",
+            "short_name": "Federal Capital Territory",
+            "types": [Array
+            ]
+        },
+        {
+            "long_name": "Nigeria",
+            "short_name": "NG",
+            "types": [Array
+            ]
+        },
+        {
+            "long_name": "900107",
+            "short_name": "900107",
+            "types": [Array
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"street-address\">Along Airport Rd, Extension</span>, <span class=\"locality\">Lugbe</span> <span class=\"postal-code\">900107</span>, <span class=\"region\">Federal Capital Territory</span>, <span class=\"country-name\">Nigeria</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+        "open_now": false,
+        "periods": [
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ]
+        ],
+        "weekday_text": [
+            "Monday: 6:00 AM – 9:00 PM",
+            "Tuesday: 6:00 AM – 9:00 PM",
+            "Wednesday: 6:00 AM – 9:00 PM",
+            "Thursday: 6:00 AM – 9:00 PM",
+            "Friday: 6:00 AM – 9:00 PM",
+            "Saturday: 6:00 AM – 9:00 PM",
+            "Sunday: 6:00 AM – 9:00 PM"
+        ]
+    },
+    "formatted_address": "Along Airport Rd, Extension, Lugbe 900107, Federal Capital Territory, Nigeria",
+    "geometry": {
+        "location": {
+            "lat": 8.953119599999999,
+            "lng": 7.3329179
+        },
+        "viewport": {
+            "northeast": [Object
+            ],
+            "southwest": [Object
+            ]
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+    "icon_background_color": "#909CE1",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+    "name": "Matrix Energy Filling Station",
+    "opening_hours": {
+        "open_now": false,
+        "periods": [
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ]
+        ],
+        "weekday_text": [
+            "Monday: 6:00 AM – 9:00 PM",
+            "Tuesday: 6:00 AM – 9:00 PM",
+            "Wednesday: 6:00 AM – 9:00 PM",
+            "Thursday: 6:00 AM – 9:00 PM",
+            "Friday: 6:00 AM – 9:00 PM",
+            "Saturday: 6:00 AM – 9:00 PM",
+            "Sunday: 6:00 AM – 9:00 PM"
+        ]
+    },
+    "photos": [
+        {
+            "height": 1920,
+            "html_attributions": [Array
+            ],
+            "photo_reference": "AUc7tXWJsDH8nZgoHKc1rzG3VyReIQOWdu4gKgCZTpcWwVmimTMYIWJUepvs1UFLMjBNlGu_UOmaYlD8EwUujHvs9i0--rYZ5R02x8OnREIwImm04mR94ucIAqSZUKYNyfvXK-MUoUPxUmLjmfjm3QYK_Kd11JPZsxKLZOAlb8IWqqEHjk2X",
+            "width": 1080
+        },
+        {
+            "height": 3120,
+            "html_attributions": [Array
+            ],
+            "photo_reference": "AUc7tXXJaD24p1ORNY4RvXiJjK-NXB8lz3grW2HhGlK_dNa8danSuxYa0oh-wg-VdcY5H4cwXdjgy0hmo4mPB1VW9Pe919APirTOX0PH0sNOIkVlSUM--7k2pv61aMTXGusomGQQGSx0l_p_VazYypTIkzCsCIYF-Y-uaQr1P2WUWT5BRtny",
+            "width": 4160
+        },
+        {
+            "height": 1080,
+            "html_attributions": [Array
+            ],
+            "photo_reference": "AUc7tXWONuQgN63L3Auq8FrPqiy-WQbUEBm8xHVRLGquKgZMPaPwRsMRI76Nw-zdxNOKO3Gp4niO0NWV_Lj9LZkI714taKow-TAalyoCTFfONC2H0brJVGgoGwwFjJ2R0OZleC3PCvs0-mcbkKNQP3VVkpKjSGopK9ejrH5Je7dA5zrRprEM",
+            "width": 1920
+        },
+        {
+            "height": 1080,
+            "html_attributions": [Array
+            ],
+            "photo_reference": "AUc7tXWQRakEN1BD-Ef_EE40oOzm7VB_X0PNksuZkG7UWmKvvs9Psr81mMvUaHJrKqXIfxZPQzqFY1VCJraVc8ujZAF_I9yI1U98k4pPKfJVbTjmGOIm_yJR9hNhROnxgolGEdSYTTUYsJGEUu4ef4RMkbShTeLkTSSEJsHIda-tvpumzQsZ",
+            "width": 1920
+        },
+        {
+            "height": 1920,
+            "html_attributions": [Array
+            ],
+            "photo_reference": "AUc7tXUpyBo5FiTREaRDY06DvgNHWNdpqfXfNIw-5o90Yk21qNScG9WjhPgSmwC9uKC2RP2mrBGFXIP-j_QmHfYAPIvXY9uL0fQo-3j04T9uZ1zYkLci3YQQU1jBIDNyQyVdgAEVcMLTaq0H9Zt2QUWJBc34lrKYKrXl70oa5OoKZZscL-ah",
+            "width": 1080
+        },
+        {
+            "height": 1920,
+            "html_attributions": [Array
+            ],
+            "photo_reference": "AUc7tXVSfTqFvlqTmGS8MZZwCuJF4WQHMuwY2DCSaQw6B5MhTa2RM01NTM8YStOVgzrEkKjW3o1dfSzjGKIipaPemzKSaCwwtrbv0GntdM8Fz80Glw6NIO5TlfF718408Yr8_hQIgh7_sk1vogjtzXqz5hpUHmF5OJlmN-iRV7ebFE3ejaVp",
+            "width": 1080
+        },
+        {
+            "height": 1080,
+            "html_attributions": [Array
+            ],
+            "photo_reference": "AUc7tXXFIT06Jb1lzNxns65EVa4PKJ4LOtxm3EIMqbofizKyIQ7Uq7lqCpGsuofubcpE5pQCcudaeAtT9pum27q6l81vzTxDE_Z8iJltMSCp-JBfCU0tlslzKA3OnSfx0mU4IduZ1TNyn43ZLiQ8baU_2coikV_scyCOSuKmr7aqAV8YLYS_",
+            "width": 1920
+        },
+        {
+            "height": 3120,
+            "html_attributions": [Array
+            ],
+            "photo_reference": "AUc7tXUn2A6AB2q8nk6h1RGBV2K176w-HPC1mXShR-TZOEkQwbn8rt7RHuYr237Wk7r0lpTDZbLOdFQtGQ_mnNTiVmf2Y8kvITFUsT_SNZYrnR6jX9OvcBk-wX5fLD-mgJ9DUoetYIt3g1Q1e-nUOEfcUVUp5nBB-p8UAxcojr7fGwOzpKWa",
+            "width": 4160
+        },
+        {
+            "height": 1920,
+            "html_attributions": [Array
+            ],
+            "photo_reference": "AUc7tXV4vj_Fl7pBGv8-bufgACViARVQbBX4duImJHybYf_GxELuxX1IcwhKGhk0GGRTPnbz2AelsSnJQHCgqGWW-09ao6HvY4a6WDdlkbVf9-gLvLVP9AzDF-IIV8ni9VJuC_6riYlUMJnR7SZEaMspuyZC5QdQ-maqk9ie0y6Orrx1jb8P",
+            "width": 1080
+        },
+        {
+            "height": 1920,
+            "html_attributions": [Array
+            ],
+            "photo_reference": "AUc7tXV4ZPlLZ4NPuGGj6jHUWEsSW07INAUEpU5lzlnk-CGgY0D_3-b6p6Wr7F3g6kJAyo1kmlYFnRSoLZtmP0mWk9_Cu2AwFyHrlb-ZL6VsDq_UQyxcA2dxqIA36gwL2R83D8SOKHUIB38rfR9m_wozuKzP9Ud6eeEeTH7DJKF6choM957c",
+            "width": 1080
+        }
+    ],
+    "place_id": "ChIJLXPWXXJxThARc0O0W9NEO1k",
+    "plus_code": {
+        "compound_code": "X83M+65 Lugbe, Nigeria",
+        "global_code": "6FW9X83M+65"
+    },
+    "rating": 3.9,
+    "reference": "ChIJLXPWXXJxThARc0O0W9NEO1k",
+    "reviews": [
+        {
+            "author_name": "salihu adam",
+            "author_url": "https://www.google.com/maps/contrib/109273179374673737895/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVnFXHlcJbKkUjvlOfEuWxiDf3NcUYCPYNJBHAKJvCq7YpXDxg=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 3,
+            "relative_time_description": "3 months ago",
+            "text": "Good filling station with over 10 pumps ⛽, good rate and nice entrance in and out.",
+            "time": 1710512807,
+            "translated": false
+        },
+        {
+            "author_name": "isaiah Jiya",
+            "author_url": "https://www.google.com/maps/contrib/106424091426957246426/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWei9Lo3mvL5Rmvk88a6l2utT9sMfXaZBn02kViY_j3vWY0tfKaIA=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 4,
+            "relative_time_description": "3 months ago",
+            "text": "A large station with Good space Along Airport Road....  just close to Shafa filling station...",
+            "time": 1709239250,
+            "translated": false
+        },
+        {
+            "author_name": "hafeez gambo",
+            "author_url": "https://www.google.com/maps/contrib/103623545274513712367/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWB29CCAECS7BKQry6s-RyAo74b4joJCJOwAqLHz7PrzHV73OH4=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 5,
+            "relative_time_description": "4 months ago",
+            "text": "They accommodate and cherish people well",
+            "time": 1707516528,
+            "translated": false
+        },
+        {
+            "author_name": "iValid Digitalhub",
+            "author_url": "https://www.google.com/maps/contrib/108718802822769481403/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKmKrTH1inEWyXQSeIT-UpOpBiHVB1Yp2zWPfW-IkjspunMXg=s128-c0x00000000-cc-rp-mo",
+            "rating": 4,
+            "relative_time_description": "a year ago",
+            "text": "Their speed of service is average the day I patronize them.",
+            "time": 1687355987,
+            "translated": false
+        },
+        {
+            "author_name": "Paul Joseph",
+            "author_url": "https://www.google.com/maps/contrib/110385568691574150638/reviews",
+            "language": "en",
+            "original_language": "en",
+            "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvFgkNkcwU7xkUYVIzyiuJyCCGPNZUxZSePIkyBHMB2VDBjAI=s128-c0x00000000-cc-rp-mo-ba4",
+            "rating": 3,
+            "relative_time_description": "a year ago",
+            "text": "Fuel almost always available at official rate. Good toilets.",
+            "time": 1684664686,
+            "translated": false
+        }
+    ],
+    "types": [
+        "gas_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6429808567568843635",
+    "user_ratings_total": 71,
+    "utc_offset": 60,
+    "vicinity": "Along Airport Road, Lugbe"
+}

@@ -1,0 +1,48 @@
+{
+  "expo": {
+    "name": "FindFuel",
+    "slug": "FindFuel",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#fff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.FindFuel.FindFuel",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyDZnqPKvw0Me0Q8Rg_wtQ6ExIfjggD9Mdo"
+        }
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9b382d73-60a2-449c-84b9-d500dfdabc96"
+      }
+    },
+    "plugins": [
+      "expo-font",
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Allow $(FindFuel App) to use your location."
+        }
+      ]
+    ]
+  }
+}

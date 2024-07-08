@@ -1,0 +1,133 @@
+{
+    "config": {
+        "adapter": [
+            "xhr",
+            "http",
+            "fetch"
+        ],
+        "data": "{\"first_name\":\"chris\",\"last_name\":\"nigga\",\"email\":\"nigga2@gmail.com\",\"password\":\"Sam123uel@\",\"phone_no\":\"+234 908 017 0598\"}",
+        "env": {
+            "Blob": [Function Blob
+            ],
+            "FormData": [Function FormData
+            ]
+        },
+        "headers": [Object
+        ],
+        "maxBodyLength": -1,
+        "maxContentLength": -1,
+        "method": "post",
+        "timeout": 0,
+        "transformRequest": [
+            [Function transformRequest
+            ]
+        ],
+        "transformResponse": [
+            [Function transformResponse
+            ]
+        ],
+        "transitional": {
+            "clarifyTimeoutError": false,
+            "forcedJSONParsing": true,
+            "silentJSONParsing": true
+        },
+        "url": "http://possible-gar-partially.ngrok-free.app/api/auth/register/",
+        "validateStatus": [Function validateStatus
+        ],
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN"
+    },
+    "data": {
+        "access": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzE5ODMyMjk5LCJpYXQiOjE3MTk4MzE5OTksImp0aSI6IjJmYjM1NzFkZGNiYzQ2MDliYzU0OGQ3MTU2N2U3MWJlIiwidXNlcl9pZCI6MjB9.lPgyOHprmnU3OQHvJ1ZpykhsvUNWi744rI6WulTA0ms",
+        "refresh": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTcxOTkxODM5OSwiaWF0IjoxNzE5ODMxOTk5LCJqdGkiOiJjMTk2Y2Y2ZGZiMGI0MmViYThkYzcwMTg3YmE2MjJhMiIsInVzZXJfaWQiOjIwfQ.9RUGGpkHI5AkrOydRwBKiU1_z388ooQNdmy6TL-Dx3w",
+        "user": {
+            "created": "2024-07-01T11:06:38.781004Z",
+            "email": "nigga2@gmail.com",
+            "first_name": "chris",
+            "id": 20,
+            "is_active": true,
+            "last_name": "nigga",
+            "updated": "2024-07-01T11:06:39.632800Z"
+        }
+    },
+    "headers": {
+        "allow": "POST",
+        "content-length": "668",
+        "content-type": "application/json",
+        "cross-origin-opener-policy": "same-origin",
+        "date": "Mon, 01 Jul 2024 11:06:39 GMT",
+        "referrer-policy": "same-origin",
+        "server": "WSGIServer/0.2 CPython/3.10.11",
+        "vary": "Accept, origin, Cookie",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "DENY"
+    },
+    "request": {
+        "DONE": 4,
+        "HEADERS_RECEIVED": 2,
+        "LOADING": 3,
+        "OPENED": 1,
+        "UNSENT": 0,
+        "_aborted": false,
+        "_cachedResponse": undefined,
+        "_hasError": false,
+        "_headers": {
+            "accept": "application/json, text/plain, */*",
+            "content-type": "application/json"
+        },
+        "_incrementalEvents": false,
+        "_lowerCaseResponseHeaders": {
+            "allow": "POST",
+            "content-length": "668",
+            "content-type": "application/json",
+            "cross-origin-opener-policy": "same-origin",
+            "date": "Mon, 01 Jul 2024 11:06:39 GMT",
+            "referrer-policy": "same-origin",
+            "server": "WSGIServer/0.2 CPython/3.10.11",
+            "vary": "Accept, origin, Cookie",
+            "x-content-type-options": "nosniff",
+            "x-frame-options": "DENY"
+        },
+        "_method": "POST",
+        "_perfKey": "network_XMLHttpRequest_http://possible-gar-partially.ngrok-free.app/api/auth/register/",
+        "_performanceLogger": {
+            "_closed": false,
+            "_extras": [Object
+            ],
+            "_pointExtras": [Object
+            ],
+            "_points": [Object
+            ],
+            "_timespans": [Object
+            ]
+        },
+        "_requestId": null,
+        "_response": "{\"user\":{\"id\":20,\"first_name\":\"chris\",\"last_name\":\"nigga\",\"email\":\"nigga2@gmail.com\",\"is_active\":true,\"created\":\"2024-07-01T11:06:38.781004Z\",\"updated\":\"2024-07-01T11:06:39.632800Z\"},\"refresh\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTcxOTkxODM5OSwiaWF0IjoxNzE5ODMxOTk5LCJqdGkiOiJjMTk2Y2Y2ZGZiMGI0MmViYThkYzcwMTg3YmE2MjJhMiIsInVzZXJfaWQiOjIwfQ.9RUGGpkHI5AkrOydRwBKiU1_z388ooQNdmy6TL-Dx3w\",\"access\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzE5ODMyMjk5LCJpYXQiOjE3MTk4MzE5OTksImp0aSI6IjJmYjM1NzFkZGNiYzQ2MDliYzU0OGQ3MTU2N2U3MWJlIiwidXNlcl9pZCI6MjB9.lPgyOHprmnU3OQHvJ1ZpykhsvUNWi744rI6WulTA0ms\"}",
+        "_responseType": "",
+        "_sent": true,
+        "_subscriptions": [],
+        "_timedOut": false,
+        "_trackingName": "unknown",
+        "_url": "http://possible-gar-partially.ngrok-free.app/api/auth/register/",
+        "readyState": 4,
+        "responseHeaders": {
+            "allow": "POST",
+            "content-length": "668",
+            "content-type": "application/json",
+            "cross-origin-opener-policy": "same-origin",
+            "date": "Mon, 01 Jul 2024 11:06:39 GMT",
+            "referrer-policy": "same-origin",
+            "server": "WSGIServer/0.2 CPython/3.10.11",
+            "vary": "Accept, origin, Cookie",
+            "x-content-type-options": "nosniff",
+            "x-frame-options": "DENY"
+        },
+        "responseURL": "https://possible-gar-partially.ngrok-free.app/api/auth/register/",
+        "status": 201,
+        "timeout": 0,
+        "upload": {},
+        "withCredentials": true
+    },
+    "status": 201,
+    "statusText": undefined
+}
